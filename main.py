@@ -11,3 +11,5 @@ def letter_idx(dic):
     print(dict(diction))
 
 letter_idx('hallu duaer')
+
+print('school')
